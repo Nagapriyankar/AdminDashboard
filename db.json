@@ -1,0 +1,77 @@
+{
+  "teacherList": [
+    {
+      "Name": "Craig Jon",
+      "Subject": "Tamil",
+      "Salary": "2000000",
+      "id": 5
+    },
+    {
+      "Name": "Nagapriyanka",
+      "Subject": "English",
+      "Salary": "20000",
+      "id": 6
+    },
+    {
+      "Name": "Nivethitha naveen",
+      "Subject": "English",
+      "Salary": "2000000",
+      "id": 7
+    },
+    {
+      "Name": "Harish",
+      "Subject": "English",
+      "Salary": "200200",
+      "id": 8
+    },
+    {
+      "Name": "Patrick",
+      "Subject": "Tamil",
+      "Salary": "500500",
+      "id": 9
+    },
+    {
+      "Name": "Nick  Jones",
+      "Subject": "Tamil",
+      "Salary": "1000000",
+      "id": 10
+    }
+  ],
+  "studentList": [
+    {
+      "firstName": "Ridhin",
+      "lastName": "Dhinesh",
+      "percentage": "99",
+      "course": "Pure Science",
+      "id": 1
+    },
+    {
+      "firstName": "Sajjan",
+      "lastName": "Naveen",
+      "percentage": "85",
+      "course": "Computer Science",
+      "id": 2
+    },
+    {
+      "firstName": "Aarunya",
+      "lastName": "N",
+      "percentage": "75",
+      "course": "Information Technology",
+      "id": 3
+    },
+    {
+      "firstName": "Harshi",
+      "lastName": "M",
+      "percentage": "85",
+      "course": "Computer Science",
+      "id": 4
+    },
+    {
+      "firstName": "Sibin",
+      "lastName": "Nagarajan",
+      "percentage": "90",
+      "course": "Computer Science",
+      "id": 5
+    }
+  ]
+}

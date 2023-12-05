@@ -21,11 +21,9 @@ function NavBar() {
         <AppBar position="static">
             <StyledToolbar variant="dense">
                 <Box sx={{ display: 'flex', alignItems: 'center' }}>
-                    <IconButton edge="start" color="inherit" aria-label="menu" sx={{ mr: 2 }}>
-                        <MenuIcon />
-                    </IconButton>
+                    
                     <Typography variant="h6" color="inherit" component="div">
-                        ADMIN DASHBOARD
+                       STUDENT & TEACHER ADMIN DASHBOARD
                     </Typography>
                 </Box>
                 <Box sx={{display:'flex', alignItems:'center', gap:'10px'}}>
